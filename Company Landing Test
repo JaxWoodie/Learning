@@ -1,0 +1,25 @@
+<html>
+<head>
+<style>
+body {background-color:DarkCyan;}
+h1 {color:Gainsboro;}
+h2 {color:Silver;}
+p {color:Black;}
+</style>
+</head>
+<body>
+
+<h1>Company name</h1>
+
+<h2>About us</h2>
+
+<p>Company name provides smart, user-friendly solutions to everyday problems. We aim to assist people to make their lifestyle better and achieve their goals.</p>
+
+<h2>Founders</h2>
+
+<p>Company name's husband and wife duo Mr and Mrs Woodie have a passion for creating simple tech that works. They met in 2008 and created their company from a little cottage in rural NSW in 2025. Their aim is to create a suite of solutions for all of life's niggling problems. Not only that, their driving force is helping people get better, live better and feel better.</p>
+
+<img src="Images/GlennJacqui1.jpg" alt="Glenn and Jacqui Woodward swimming" style="width:1000px; height:750px;">
+
+</body>
+</html>
